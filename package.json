@@ -1,5 +1,5 @@
 {
-  "name": "@omerman/react-native-wheel-picker-android",
+  "name": "react-native-wheel-picker-android",
   "version": "1.1.1",
   "description": "Simple Wheel Picker for Android to use with react-native",
   "main": "index.js",
